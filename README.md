@@ -1,3 +1,3 @@
 Multibox patcher for Growtopia
 
-Patch Growtopia.exe so you can open more than one window
+Patch Growtopia.exe so you can open more than one Growtopia
